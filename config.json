@@ -1,5 +1,5 @@
 {
-    "name": "Aluracord - Matrix (peas)",
+    "name": "Aluracord - ACNH",
     "theme": {
       "colors": {
         "primary": {
@@ -27,6 +27,13 @@
           "800": "#181F25",
           "900": "#101418",
           "999": "#080A0C"
+        },
+        "acnh": {
+          "050": "#9DFFB0",
+          "100": "#81F1F7",
+          "200": "#FFFFFA",
+          "300": "#C48D3F",
+          "400": "#deb730"
         }
       }
     },
